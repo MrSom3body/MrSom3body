@@ -92,7 +92,7 @@
 
 <br>
 
-<h2>🔥 My Contributions</h2>
+<h2>🔥 My contributions</h2>
 
 <br>
 
