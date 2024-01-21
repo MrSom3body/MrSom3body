@@ -51,20 +51,6 @@
 
 <br>
 
-<h3>🎶 Currently vibing to</h3>
-
-<br>
-
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://mrsomebodys-spotify-readme.vercel.app/api?theme=light&scan=true&rainbow=true" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://mrsomebodys-spotify-readme.vercel.app/api?theme=dark&scan=true&rainbow=true" />
-        <img align="center" alt="current Spotify song" src="https://mrsomebodys-spotify-readme.vercel.app/api?theme=light&scan=true&rainbow=true">
-    </picture>
-</div>
-
-<br>
-
 <h2>🧰 Tools and languages</h2>
 
 <br>
