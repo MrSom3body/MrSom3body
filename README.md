@@ -41,7 +41,6 @@
 <br>
 
 <p>My name is Karun, and I'm currently studying IT in Austria.</p>
-<img alt="anime boy getting slapped" align="right" height="125" src="https://i.pinimg.com/originals/6f/8f/fe/6f8ffe0853bef055b4f3382c1d7b822e.gif" />
 <ul>
     <li>✨ Creating bugs since 2019</li>
     <li>📚 I'm currently learning Java</li>
