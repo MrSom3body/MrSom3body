@@ -28,7 +28,7 @@ You can reach me on [Discord](https://discord.com/users/598851082902306826) or [
 
 ## 🧰 Tools
 
-[![Tools I use](https://skillicons.dev/icons?i=git,github,idea,linux,nix,stackoverflow)](https://skillicons.dev)
+[![Tools I use](https://skillicons.dev/icons?i=git,github,idea,linux,nix)](https://skillicons.dev)
 
 ## 🔤 Languages
 
