@@ -2,14 +2,14 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-iota-gilt-17.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="150" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-iota-gilt-17.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="150" />
-        <img align="center" alt="stats graph" src="https://github-readme-stats-iota-gilt-17.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="150">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="150" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="150" />
+        <img align="center" alt="stats graph" src="https://github-readme-stats-dun-eight-76.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="150">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-iota-gilt-17.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=default" height="150" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-iota-gilt-17.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" />
-        <img align="center" alt="language stats" src="https://github-readme-stats-iota-gilt-17.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=default" height="150">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=default" height="150" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" />
+        <img align="center" alt="language stats" src="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=default" height="150">
     </picture>
 </div>
 
