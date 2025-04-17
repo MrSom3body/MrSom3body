@@ -21,7 +21,7 @@ My name is Karun, and I'm currently studying IT in Austria.
 
 - ✨ Creating bugs since 2019
 - 📚 I'm currently learning Nix and NixOS
-- 🎯 Goals: Convert the whole world to Linux
+- 🎯 Goals: Convert the whole world to ~Linux~ NixOS
 - 🎲 Fun fact: Programming for a few years and still dumb af :P
 
 You can reach me on [Discord](https://discord.com/users/598851082902306826) or [Matrix](https://matrix.to/#/@mrsom3body:matrix.org).
