@@ -32,7 +32,7 @@ You can reach me on [Discord](https://discord.com/users/598851082902306826) or [
 
 ## 🔤 Languages
 
-[![Languages I write in](https://skillicons.dev/icons?i=bash,css,go,html,java,js,md,py)](https://skillicons.dev)
+[![Languages I write in](https://skillicons.dev/icons?i=java,py,go,dart,bash,css,html,js,php,md)](https://skillicons.dev)
 
 ## 🔥 My contributions
 
