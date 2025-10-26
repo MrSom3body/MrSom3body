@@ -1,4 +1,5 @@
 <h1 align="center">hey 👋, I'm Karun</h1>
+
 <p align="center">🐧 open-source nerd | 🧪 bug alchemist | ☕ coffee addict</p>
 
 <div align="center">
@@ -26,6 +27,8 @@ My name is Karun, and I'm currently studying IT in Austria.
 - 💬 Helping others, so they can suffer slightly less than I did
 
 You can reach me on [Discord](https://discord.com/users/598851082902306826) or [Matrix](https://matrix.to/#/@mrsom3body:matrix.org).
+
+[![pgp](https://img.shields.io/badge/pgp-0x1743F5EEBFA41DA9-313131?style=for-the-badge&labelColor=545454&color=313131)](https://github.com/MrSom3body.gpg)
 
 ## 🧰 Tools
 
