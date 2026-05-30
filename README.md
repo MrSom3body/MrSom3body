@@ -4,14 +4,14 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=default"/>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-        <img align="center" alt="GitHub stats card" src="https://github-readme-stats-dun-eight-76.vercel.app/api?username=MrSom3body&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=default" height="150">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrSom3body/MrSom3body/output/github-stats-light.svg"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrSom3body/MrSom3body/output/github-stats-dark.svg"/>
+        <img align="center" alt="GitHub stats card" src="https://raw.githubusercontent.com/MrSom3body/MrSom3body/output/github-stats-light.svg" height="150">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=default" height="150" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" />
-        <img align="center" alt="Most used languages card" src="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=MrSom3body&layout=compact&card_width=320&langs_count=5&theme=default" height="150">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrSom3body/MrSom3body/output/github-langs-light.svg" height="150" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrSom3body/MrSom3body/output/github-langs-dark.svg" height="150" />
+        <img align="center" alt="Most used languages card" src="https://raw.githubusercontent.com/MrSom3body/MrSom3body/output/github-langs-light.svg" height="150">
     </picture>
 </div>
 
