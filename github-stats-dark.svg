@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Karun Sandhu's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 124, Total Commits  : 3697, Total PRs: 321, Total Issues: 43, Contributed to (last year): 29</desc>
+        <desc id="descId">Total Stars Earned: 124, Total Commits  : 3701, Total PRs: 321, Total Issues: 43, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.76488055123798;
+        stroke-dashoffset: 39.75593794214688;
       }
     }
   
