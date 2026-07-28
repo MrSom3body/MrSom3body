@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Karun Sandhu's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 125, Total Commits  : 3838, Total PRs: 323, Total Issues: 44, Contributed to (last year): 25</desc>
+        <title id="titleId">Karun Sandhu&#39;s GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 126, Total Commits  : 3841, Total PRs: 323, Total Issues: 44, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.27399897287256;
+        stroke-dashoffset: 39.131914709086274;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Karun Sandhu's GitHub Stats</text>
+      >Karun Sandhu&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >125</text>
+      >126</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
