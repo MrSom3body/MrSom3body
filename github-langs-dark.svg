@@ -59,7 +59,9 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
+    .progress-background { fill: #ddd; }
     
+          
 
           
       /* Animations */
@@ -84,9 +86,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -130,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="189.34"
+          width="189.39"
           height="8"
           fill="#7e7eff"
         />
@@ -138,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="189.34"
+          x="189.39"
           y="0"
-          width="42.81"
+          width="42.78"
           height="8"
           fill="#3572A5"
         />
@@ -148,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="232.15"
+          x="232.17"
           y="0"
-          width="19.86"
+          width="19.85"
           height="8"
           fill="#89e051"
         />
@@ -158,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="252.01"
+          x="252.01999999999998"
           y="0"
-          width="19.439999999999998"
+          width="19.43"
           height="8"
           fill="#b07219"
         />
@@ -181,7 +189,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#7e7eff" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nix 70.13%
+        Nix 70.14%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -202,7 +210,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 3.50%
+        Java 3.49%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
